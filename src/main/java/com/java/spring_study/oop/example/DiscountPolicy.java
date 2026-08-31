@@ -1,4 +1,4 @@
-package com.java.spring_study.oop;
+package com.java.spring_study.oop.example;
 
 /**
  * 할인 정책을 정의하는 인터페이스

@@ -1,4 +1,4 @@
-package com.java.spring_study.oop;
+package com.java.spring_study.oop.example;
 
 /**
  * 비율 할인 정책

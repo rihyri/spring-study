@@ -1,4 +1,4 @@
-package com.java.spring_study.oop;
+package com.java.spring_study.oop.example;
 
 public class OopStudyMain {
 

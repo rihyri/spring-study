@@ -1,4 +1,4 @@
-package com.java.spring_study.oop;
+package com.java.spring_study.oop.example;
 
 /**
  * 강한 결합 (Tight Coupling)을 확인하는 예제

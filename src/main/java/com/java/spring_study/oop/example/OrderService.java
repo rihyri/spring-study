@@ -1,4 +1,4 @@
-package com.java.spring_study.oop;
+package com.java.spring_study.oop.example;
 
 /**
  * 느슨한 결합 (Loose Coupling)을 확인하기 위한 예제
