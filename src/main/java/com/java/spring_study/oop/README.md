@@ -1,3 +1,5 @@
+<br>
+
 # 0. 객체 지향의 기본
 
 <br>
@@ -57,6 +59,7 @@ FixedPolicy  RatePolicy
 
 <br>
 <hr>
+<br>
 
 ## 2. 강한 결합과 느슨한 결합
 
@@ -118,6 +121,7 @@ FixedPolicy   RatePolicy
 
 <br>
 <hr>
+<br>
 
 ## 3. OCP - Open Closed Principle
 
@@ -165,6 +169,7 @@ public class SpecialDiscountPolicy implements DiscountPolicy {
 
 <br>
 <hr>
+<br>
 
 ## 4. Spring과의 관계
 
@@ -210,6 +215,7 @@ Spring Container
 
 <br>
 <hr>
+<br>
 
 ## 실행
 
