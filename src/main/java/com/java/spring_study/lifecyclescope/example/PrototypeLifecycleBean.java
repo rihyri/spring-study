@@ -6,8 +6,13 @@ import org.springframework.beans.factory.config.ConfigurableBeanFactory;
 import org.springframework.context.annotation.Scope;
 import org.springframework.stereotype.Component;
 
+/**
+ * Prototype Scope : getBean()을 호출할 때마다 새로운 객체를 생성해서 반환
+ * Prototype Bean은 생성과 초기화(@PostConstruct)까지만 Spring이 관리하고, 그 이후의 생명주기(소멸)는 Spring이 관리하지 않는다.
+ * 따라서 @PreDestroy가 실행되지 않는다.
+ */
 @Component
-@Scope(ConfigurableBeanFactory.SCOPE_PROTOTYPE)
+@Scope(ConfigurableBeanFactory.SCOPE_PROTOTYPE) // 프로토타입 지정
 public class PrototypeLifecycleBean {
 
     public PrototypeLifecycleBean() {
