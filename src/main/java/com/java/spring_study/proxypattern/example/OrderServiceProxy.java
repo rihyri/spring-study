@@ -1,4 +1,4 @@
-package com.java.spring_study.proxypattern;
+package com.java.spring_study.proxypattern.example;
 
 /**
  * 직접 작성한 Proxy 객체

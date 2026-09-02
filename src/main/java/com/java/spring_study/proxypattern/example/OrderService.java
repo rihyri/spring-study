@@ -1,4 +1,4 @@
-package com.java.spring_study.proxypattern;
+package com.java.spring_study.proxypattern.example;
 
 /**
  * 주문 기능의 역할을 정의한다.

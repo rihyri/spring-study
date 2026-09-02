@@ -1,4 +1,4 @@
-package com.java.spring_study.proxypattern;
+package com.java.spring_study.proxypattern.example;
 
 import org.springframework.aop.framework.ProxyFactory;
 import org.springframework.aop.support.AopUtils;

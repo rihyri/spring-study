@@ -1,4 +1,4 @@
-package com.java.spring_study.proxypattern;
+package com.java.spring_study.proxypattern.example;
 
 /**
  * 실제 비즈니스 로직을 수행하는 Target 객체
