@@ -1,4 +1,4 @@
-package com.java.spring_study.aop;
+package com.java.spring_study.aop.example;
 
 import org.aspectj.lang.ProceedingJoinPoint;
 import org.aspectj.lang.annotation.Around;
@@ -20,7 +20,7 @@ public class ExecutionTimeAspect {
      * @TrackExecutionTime이 선언된 메서드를 AOP 적용 대상으로 지정한다.
      */
     @Pointcut(
-            "@annotation(com.java.spring_study.aop.TrackExecutionTime)"
+            "@annotation(com.java.spring_study.aop.example.TrackExecutionTime)"
     ) public void trackExecutionTimePointcut() {
     }
 

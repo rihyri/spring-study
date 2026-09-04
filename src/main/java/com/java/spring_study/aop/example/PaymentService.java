@@ -1,4 +1,4 @@
-package com.java.spring_study.aop;
+package com.java.spring_study.aop.example;
 
 import org.springframework.stereotype.Service;
 

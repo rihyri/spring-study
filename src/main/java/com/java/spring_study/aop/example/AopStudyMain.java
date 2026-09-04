@@ -1,4 +1,4 @@
-package com.java.spring_study.aop;
+package com.java.spring_study.aop.example;
 
 import org.springframework.aop.support.AopUtils;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
