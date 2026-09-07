@@ -1,4 +1,4 @@
-package com.java.spring_study.iocdi;
+package com.java.spring_study.iocdi.example;
 
 /**
  * 비율 할인 정책

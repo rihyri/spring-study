@@ -1,4 +1,4 @@
-package com.java.spring_study.iocdi;
+package com.java.spring_study.iocdi.example;
 
 /**
  * 할인 정책을 이용해 주문 금액을 계산하는 서비스

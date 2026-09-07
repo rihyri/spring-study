@@ -1,4 +1,4 @@
-package com.java.spring_study.iocdi;
+package com.java.spring_study.iocdi.example;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
